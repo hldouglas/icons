@@ -13,3 +13,8 @@
 .i-triceratops {
   background-image: url("../images/triceratops.svg");
 }
+
+.icon-link {
+  text-decoration: none;
+  color: black;
+}
